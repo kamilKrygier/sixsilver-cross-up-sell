@@ -1,2 +1,3 @@
 # sixsilver-cross-up-sell
-Custom cross-sell and up-sell mechanism dedicated for https://sixsilver.pl/
+Simple cross-sell and up-sell plugin that is showing products based at some attributes<br>
+Mechanism dedicated for [sixsilver.pl](https://sixsilver.pl/)
